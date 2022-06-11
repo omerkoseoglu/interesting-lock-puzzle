@@ -1,0 +1,17 @@
+{
+    "name": "omerkoseoglu/interesting-lock",
+    "authors": [
+        {
+            "name": "omerkoseoglu",
+            "email": "omerkoseoglu@outlook.com"
+        }
+    ],
+    "require": {
+        "illuminate/collections": "^9.17"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
